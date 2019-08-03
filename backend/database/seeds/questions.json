@@ -1,0 +1,62 @@
+[
+    {
+        "description": "You find it takes effort to introduce yourself to other people.",
+        "dimention": "EI",
+        "direction": 1,
+        "meaning": "I"
+    },
+    {
+        "description": "You consider yourself more practical than creative.",
+        "dimention": "SN",
+        "direction": -1,
+        "meaning": "S"
+    },
+    {
+        "description": "Winning a debate matters less to you than making sure no one gets upset.",
+        "dimention": "TF",
+        "direction": 1,
+        "meaning": "F"
+    },
+    {
+        "description": "You get energized going to social events that involve many interactions.",
+        "dimention": "EI",
+        "direction": -1,
+        "meaning": "E"
+    },
+    {
+        "description": "You often spend time exploring unrealistic and impractical yet intriguing ideas.",
+        "dimention": "SN",
+        "direction": 1,
+        "meaning": "N"
+    },
+    {
+        "description": "Deadlines seem to you to be of relative rather than absolute importance.",
+        "dimention": "JP",
+        "direction": 1,
+        "meaning": "P"
+    },
+    {
+        "description": "Logic is usually more important than heart when it comes to making important decisions.",
+        "dimention": "TF",
+        "direction": -1,
+        "meaning": "T"
+    },
+    {
+        "description": "Your home and work environments are quite tidy.",
+        "dimention": "JP",
+        "direction": -1,
+        "meaning": "J"
+    },
+    {
+        "description": "You do not mind being at the center of attention.",
+        "dimention": "EI",
+        "direction": -1,
+        "meaning": "E"
+    },
+    {
+        "description": "Keeping your options open is more important than having a to-do list.",
+        "dimention": "JP",
+        "direction": 1,
+        "meaning": "P"
+    }
+]
